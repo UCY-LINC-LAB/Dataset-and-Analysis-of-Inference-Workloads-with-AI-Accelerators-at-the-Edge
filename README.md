@@ -15,3 +15,6 @@ For more details in this work, you can read the published [paper](https://linc.u
   author={Kasioulis, Michalis and Symeonides, Moysis and Ioannou, Giorgos and Pallis, George and Dikaiakos, Marios D}
 }
 ```
+
+### Acknowledgements
+This work is part of GreenAnalyzer that has indirectly received funding from the European Union’s Horizon Europe research and innovation action programme, via the aerOS Open Call issued and executed under the [aerOS project](https://aeros-project.eu/)(Grant Agreement no. 101069732).
